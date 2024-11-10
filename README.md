@@ -1,4 +1,4 @@
-# Sign In and Sign Up on One Page
+# Sign In and Sign Up in One Page
 
 A modern, responsive user Sign in or Sign up interface built with HTML, CSS, and JavaScript, designed for smooth transitions between login and registration forms in one page.
 
