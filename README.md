@@ -3,7 +3,7 @@
 A modern, responsive user Sign in or Sign up interface built with HTML, CSS, and JavaScript, designed for smooth transitions between login and registration forms in one page.
 
 ![Project Screenshot](result.png)
-![Watch Project Video](result.mp4)
+[Watch Project Video](result.mp4)
 
 ## Features
 
